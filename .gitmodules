@@ -1,0 +1,3 @@
+[submodule "MyCloudServer"]
+	path = MyCloudServer
+	url = https://github.com/xhnya/MyCloudServer.git
