@@ -4,3 +4,6 @@
 [submodule "my-cloud-web"]
 	path = my-cloud-web
 	url = https://github.com/xhnya/my-cloud-web.git
+[submodule "my_cloud_app"]
+	path = my_cloud_app
+	url = https://github.com/xhnya/my_cloud_app.git
