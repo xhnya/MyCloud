@@ -7,3 +7,6 @@
 [submodule "my_cloud_app"]
 	path = my_cloud_app
 	url = https://github.com/xhnya/my_cloud_app.git
+[submodule "MyCloudDesktop"]
+	path = MyCloudDesktop
+	url = https://github.com/xhnya/MyCloudDesktop.git
